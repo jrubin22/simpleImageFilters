@@ -1,0 +1,325 @@
+image,mode,host_time_ms,kernel_time_ms,status
+High resolution/Maltese.bmp,cpu,60,,success
+High resolution/Maltese.bmp,gpu,91,0.16368,success
+High resolution/Maltese.bmp,sobel-cpu,168,,success
+High resolution/Maltese.bmp,sobel-gpu,83,0.157728,success
+High resolution/Sunrise.bmp,cpu,184,,success
+High resolution/Sunrise.bmp,gpu,134,0.504928,success
+High resolution/Sunrise.bmp,sobel-cpu,532,,success
+High resolution/Sunrise.bmp,sobel-gpu,142,0.493088,success
+High resolution/Malamute.bmp,cpu,21,,success
+High resolution/Malamute.bmp,gpu,58,0.06368,success
+High resolution/Malamute.bmp,sobel-cpu,59,,success
+High resolution/Malamute.bmp,sobel-gpu,56,0.05648,success
+High resolution/Rainier.bmp,cpu,25,,success
+High resolution/Rainier.bmp,gpu,56,0.072896,success
+High resolution/Rainier.bmp,sobel-cpu,67,,success
+High resolution/Rainier.bmp,sobel-gpu,56,0.07072,success
+Special/Zoneplate.png,cpu,277,,success
+Special/Zoneplate.png,gpu,165,0.81424,success
+Special/Zoneplate.png,sobel-cpu,858,,success
+Special/Zoneplate.png,sobel-gpu,169,0.774944,success
+Special/MachColor.bmp,cpu,6,,success
+Special/MachColor.bmp,gpu,48,0.014944,success
+Special/MachColor.bmp,sobel-cpu,11,,success
+Special/MachColor.bmp,sobel-gpu,46,0.020416,success
+Special/Colorchecker.bmp,cpu,7,,success
+Special/Colorchecker.bmp,gpu,54,0.021472,success
+Special/Colorchecker.bmp,sobel-cpu,15,,success
+Special/Colorchecker.bmp,sobel-gpu,50,0.016832,success
+Special/Lenstarg.png,cpu,157,,success
+Special/Lenstarg.png,gpu,125,0.436448,success
+Special/Lenstarg.png,sobel-cpu,468,,success
+Special/Lenstarg.png,sobel-gpu,118,0.429568,success
+Texture/blobs.bmp,cpu,4,,success
+Texture/blobs.bmp,gpu,48,0.009088,success
+Texture/blobs.bmp,sobel-cpu,6,,success
+Texture/blobs.bmp,sobel-gpu,49,0.017408,success
+Texture/brickwall.bmp,cpu,14,,success
+Texture/brickwall.bmp,gpu,53,0.039808,success
+Texture/brickwall.bmp,sobel-cpu,36,,success
+Texture/brickwall.bmp,sobel-gpu,55,0.043648,success
+Texture/textureB.bmp,cpu,14,,success
+Texture/textureB.bmp,gpu,56,0.038272,success
+Texture/textureB.bmp,sobel-cpu,38,,success
+Texture/textureB.bmp,sobel-gpu,53,0.041216,success
+Texture/textureA.bmp,cpu,17,,success
+Texture/textureA.bmp,gpu,66,0.039392,success
+Texture/textureA.bmp,sobel-cpu,45,,success
+Texture/textureA.bmp,sobel-gpu,55,0.040832,success
+Texture/carpet.bmp,cpu,15,,success
+Texture/carpet.bmp,gpu,70,0.042304,success
+Texture/carpet.bmp,sobel-cpu,43,,success
+Texture/carpet.bmp,sobel-gpu,53,0.042048,success
+Texture/cellcolony.bmp,cpu,5,,success
+Texture/cellcolony.bmp,gpu,51,0.017728,success
+Texture/cellcolony.bmp,sobel-cpu,12,,success
+Texture/cellcolony.bmp,sobel-gpu,51,0.017056,success
+Additional/cablecar.ppm,cpu,6,,success
+Additional/cablecar.ppm,gpu,49,0.01392,success
+Additional/cablecar.ppm,sobel-cpu,12,,success
+Additional/cablecar.ppm,sobel-gpu,50,0.015328,success
+Additional/kiel.bmp,cpu,7,,success
+Additional/kiel.bmp,gpu,53,0.018944,success
+Additional/kiel.bmp,sobel-cpu,12,,success
+Additional/kiel.bmp,sobel-gpu,47,0.014176,success
+Additional/flower.ppm,cpu,6,,success
+Additional/flower.ppm,gpu,48,0.013536,success
+Additional/flower.ppm,sobel-cpu,12,,success
+Additional/flower.ppm,sobel-gpu,48,0.017024,success
+Additional/girl.bmp,cpu,8,,success
+Additional/girl.bmp,gpu,50,0.025984,success
+Additional/girl.bmp,sobel-cpu,17,,success
+Additional/girl.bmp,sobel-gpu,57,0.024832,success
+Additional/girl.ppm,cpu,9,,success
+Additional/girl.ppm,gpu,50,0.01952,success
+Additional/girl.ppm,sobel-cpu,19,,success
+Additional/girl.ppm,sobel-gpu,54,0.019904,success
+Additional/fruits.bmp,cpu,7,,success
+Additional/fruits.bmp,gpu,50,0.013408,success
+Additional/fruits.bmp,sobel-cpu,12,,success
+Additional/fruits.bmp,sobel-gpu,49,0.016128,success
+Additional/tiffany.ppm,cpu,6,,success
+Additional/tiffany.ppm,gpu,49,0.01952,success
+Additional/tiffany.ppm,sobel-cpu,15,,success
+Additional/tiffany.ppm,sobel-gpu,48,0.016128,success
+Additional/soccer.ppm,cpu,6,,success
+Additional/soccer.ppm,gpu,47,0.01536,success
+Additional/soccer.ppm,sobel-cpu,12,,success
+Additional/soccer.ppm,sobel-gpu,49,0.017472,success
+Additional/airplaneU2.bmp,cpu,17,,success
+Additional/airplaneU2.bmp,gpu,53,0.045728,success
+Additional/airplaneU2.bmp,sobel-cpu,37,,success
+Additional/airplaneU2.bmp,sobel-gpu,53,0.040448,success
+Additional/monarch.ppm,cpu,9,,success
+Additional/monarch.ppm,gpu,54,0.025152,success
+Additional/monarch.ppm,sobel-cpu,16,,success
+Additional/monarch.ppm,sobel-gpu,50,0.024384,success
+Additional/pens.bmp,cpu,8,,success
+Additional/pens.bmp,gpu,46,0.016672,success
+Additional/pens.bmp,sobel-cpu,12,,success
+Additional/pens.bmp,sobel-gpu,46,0.014656,success
+Additional/fruits.ppm,cpu,6,,success
+Additional/fruits.ppm,gpu,46,0.015776,success
+Additional/fruits.ppm,sobel-cpu,11,,success
+Additional/fruits.ppm,sobel-gpu,47,0.014368,success
+Additional/cablecar.bmp,cpu,8,,success
+Additional/cablecar.bmp,gpu,50,0.014624,success
+Additional/cablecar.bmp,sobel-cpu,11,,success
+Additional/cablecar.bmp,sobel-gpu,49,0.015456,success
+Additional/flowers.ppm,cpu,6,,success
+Additional/flowers.ppm,gpu,48,0.011872,success
+Additional/flowers.ppm,sobel-cpu,10,,success
+Additional/flowers.ppm,sobel-gpu,47,0.014144,success
+Additional/pens.ppm,cpu,8,,success
+Additional/pens.ppm,gpu,50,0.01536,success
+Additional/pens.ppm,sobel-cpu,12,,success
+Additional/pens.ppm,sobel-gpu,47,0.017024,success
+Additional/houses.bmp,cpu,6,,success
+Additional/houses.bmp,gpu,49,0.016704,success
+Additional/houses.bmp,sobel-cpu,12,,success
+Additional/houses.bmp,sobel-gpu,52,0.016736,success
+Additional/tiffany.bmp,cpu,7,,success
+Additional/tiffany.bmp,gpu,49,0.017088,success
+Additional/tiffany.bmp,sobel-cpu,13,,success
+Additional/tiffany.bmp,sobel-gpu,46,0.019552,success
+Additional/yacht.ppm,cpu,5,,success
+Additional/yacht.ppm,gpu,49,0.015072,success
+Additional/yacht.ppm,sobel-cpu,12,,success
+Additional/yacht.ppm,sobel-gpu,46,0.019584,success
+Additional/monarch.bmp,cpu,8,,success
+Additional/monarch.bmp,gpu,48,0.02464,success
+Additional/monarch.bmp,sobel-cpu,16,,success
+Additional/monarch.bmp,sobel-gpu,49,0.025184,success
+Additional/cornfield.bmp,cpu,7,,success
+Additional/cornfield.bmp,gpu,48,0.01744,success
+Additional/cornfield.bmp,sobel-cpu,12,,success
+Additional/cornfield.bmp,sobel-gpu,56,0.014272,success
+Additional/cornfield.ppm,cpu,7,,success
+Additional/cornfield.ppm,gpu,50,0.018752,success
+Additional/cornfield.ppm,sobel-cpu,13,,success
+Additional/cornfield.ppm,sobel-gpu,50,0.015712,success
+Additional/lighthouse.bmp,cpu,7,,success
+Additional/lighthouse.bmp,gpu,53,0.020128,success
+Additional/lighthouse.bmp,sobel-cpu,13,,success
+Additional/lighthouse.bmp,sobel-gpu,50,0.015424,success
+Additional/soccer.bmp,cpu,6,,success
+Additional/soccer.bmp,gpu,52,0.014176,success
+Additional/soccer.bmp,sobel-cpu,13,,success
+Additional/soccer.bmp,sobel-gpu,49,0.016928,success
+Additional/yacht.bmp,cpu,5,,success
+Additional/yacht.bmp,gpu,47,0.015872,success
+Additional/yacht.bmp,sobel-cpu,13,,success
+Additional/yacht.bmp,sobel-gpu,47,0.017504,success
+Sun and Planets/Uranus.bmp,cpu,24,,success
+Sun and Planets/Uranus.bmp,gpu,53,0.071776,success
+Sun and Planets/Uranus.bmp,sobel-cpu,65,,success
+Sun and Planets/Uranus.bmp,sobel-gpu,55,0.074496,success
+Sun and Planets/Uranus.ppm,cpu,24,,success
+Sun and Planets/Uranus.ppm,gpu,55,0.071584,success
+Sun and Planets/Uranus.ppm,sobel-cpu,64,,success
+Sun and Planets/Uranus.ppm,sobel-gpu,55,0.069728,success
+Sun and Planets/Jupiter.ppm,cpu,19,,success
+Sun and Planets/Jupiter.ppm,gpu,58,0.050144,success
+Sun and Planets/Jupiter.ppm,sobel-cpu,48,,success
+Sun and Planets/Jupiter.ppm,sobel-gpu,58,0.056928,success
+Sun and Planets/Earth.bmp,cpu,13,,success
+Sun and Planets/Earth.bmp,gpu,48,0.025248,success
+Sun and Planets/Earth.bmp,sobel-cpu,21,,success
+Sun and Planets/Earth.bmp,sobel-gpu,50,0.025088,success
+Sun and Planets/Earth.ppm,cpu,10,,success
+Sun and Planets/Earth.ppm,gpu,50,0.028736,success
+Sun and Planets/Earth.ppm,sobel-cpu,23,,success
+Sun and Planets/Earth.ppm,sobel-gpu,51,0.027328,success
+Sun and Planets/Saturn.ppm,cpu,20,,success
+Sun and Planets/Saturn.ppm,gpu,52,0.067136,success
+Sun and Planets/Saturn.ppm,sobel-cpu,59,,success
+Sun and Planets/Saturn.ppm,sobel-gpu,54,0.058432,success
+Sun and Planets/Sun.ppm,cpu,47,,success
+Sun and Planets/Sun.ppm,gpu,66,0.132192,success
+Sun and Planets/Sun.ppm,sobel-cpu,138,,success
+Sun and Planets/Sun.ppm,sobel-gpu,74,0.125088,success
+Sun and Planets/Venus.jpg,cpu,238,,success
+Sun and Planets/Venus.jpg,gpu,198,0.462496,success
+Sun and Planets/Venus.jpg,sobel-cpu,626,,success
+Sun and Planets/Venus.jpg,sobel-gpu,233,0.457056,success
+Sun and Planets/Neptune.bmp,cpu,16,,success
+Sun and Planets/Neptune.bmp,gpu,55,0.04288,success
+Sun and Planets/Neptune.bmp,sobel-cpu,36,,success
+Sun and Planets/Neptune.bmp,sobel-gpu,61,0.037568,success
+Sun and Planets/Jupiter.bmp,cpu,18,,success
+Sun and Planets/Jupiter.bmp,gpu,54,0.05072,success
+Sun and Planets/Jupiter.bmp,sobel-cpu,52,,success
+Sun and Planets/Jupiter.bmp,sobel-gpu,55,0.055328,success
+Sun and Planets/Saturn.bmp,cpu,23,,success
+Sun and Planets/Saturn.bmp,gpu,59,0.064064,success
+Sun and Planets/Saturn.bmp,sobel-cpu,63,,success
+Sun and Planets/Saturn.bmp,sobel-gpu,58,0.059584,success
+Sun and Planets/Mercury.ppm,cpu,8,,success
+Sun and Planets/Mercury.ppm,gpu,51,0.025568,success
+Sun and Planets/Mercury.ppm,sobel-cpu,16,,success
+Sun and Planets/Mercury.ppm,sobel-gpu,59,0.02208,success
+Sun and Planets/Mars.ppm,cpu,22,,success
+Sun and Planets/Mars.ppm,gpu,56,0.048512,success
+Sun and Planets/Mars.ppm,sobel-cpu,48,,success
+Sun and Planets/Mars.ppm,sobel-gpu,56,0.047328,success
+Sun and Planets/Neptune.ppm,cpu,14,,success
+Sun and Planets/Neptune.ppm,gpu,51,0.04528,success
+Sun and Planets/Neptune.ppm,sobel-cpu,36,,success
+Sun and Planets/Neptune.ppm,sobel-gpu,53,0.042144,success
+Sun and Planets/Mars.bmp,cpu,17,,success
+Sun and Planets/Mars.bmp,gpu,55,0.050528,success
+Sun and Planets/Mars.bmp,sobel-cpu,47,,success
+Sun and Planets/Mars.bmp,sobel-gpu,58,0.047424,success
+Sun and Planets/Sun.bmp,cpu,45,,success
+Sun and Planets/Sun.bmp,gpu,65,0.132416,success
+Sun and Planets/Sun.bmp,sobel-cpu,141,,success
+Sun and Planets/Sun.bmp,sobel-gpu,69,0.128704,success
+Sun and Planets/Mercury.bmp,cpu,8,,success
+Sun and Planets/Mercury.bmp,gpu,54,0.02336,success
+Sun and Planets/Mercury.bmp,sobel-cpu,15,,success
+Sun and Planets/Mercury.bmp,sobel-gpu,47,0.0208,success
+Old classic/clown.bmp,cpu,6,,success
+Old classic/clown.bmp,gpu,45,0.01488,success
+Old classic/clown.bmp,sobel-cpu,13,,success
+Old classic/clown.bmp,sobel-gpu,49,0.016096,success
+Old classic/ZeldaColor.bmp,cpu,9,,success
+Old classic/ZeldaColor.bmp,gpu,49,0.027872,success
+Old classic/ZeldaColor.bmp,sobel-cpu,18,,success
+Old classic/ZeldaColor.bmp,sobel-gpu,49,0.02544,success
+Old classic/zelda2.bmp,cpu,9,,success
+Old classic/zelda2.bmp,gpu,49,0.021632,success
+Old classic/zelda2.bmp,sobel-cpu,17,,success
+Old classic/zelda2.bmp,sobel-gpu,49,0.024416,success
+Old classic/cameraman.bmp,cpu,4,,success
+Old classic/cameraman.bmp,gpu,48,0.009248,success
+Old classic/cameraman.bmp,sobel-cpu,6,,success
+Old classic/cameraman.bmp,sobel-gpu,47,0.016384,success
+Old classic/zelda.ppm,cpu,8,,success
+Old classic/zelda.ppm,gpu,47,0.020864,success
+Old classic/zelda.ppm,sobel-cpu,18,,success
+Old classic/zelda.ppm,sobel-gpu,50,0.023104,success
+Old classic/truck.bmp,cpu,7,,success
+Old classic/truck.bmp,gpu,48,0.018464,success
+Old classic/truck.bmp,sobel-cpu,12,,success
+Old classic/truck.bmp,sobel-gpu,50,0.021536,success
+Old classic/couple.bmp,cpu,6,,success
+Old classic/couple.bmp,gpu,60,0.015552,success
+Old classic/couple.bmp,sobel-cpu,16,,success
+Old classic/couple.bmp,sobel-gpu,49,0.014496,success
+Old classic/trucks.bmp,cpu,6,,success
+Old classic/trucks.bmp,gpu,51,0.018944,success
+Old classic/trucks.bmp,sobel-cpu,12,,success
+Old classic/trucks.bmp,sobel-gpu,48,0.015808,success
+Old classic/sailboat.bmp,cpu,7,,success
+Old classic/sailboat.bmp,gpu,54,0.016512,success
+Old classic/sailboat.bmp,sobel-cpu,13,,success
+Old classic/sailboat.bmp,sobel-gpu,53,0.016064,success
+Old classic/crowd.bmp,cpu,6,,success
+Old classic/crowd.bmp,gpu,49,0.014208,success
+Old classic/crowd.bmp,sobel-cpu,12,,success
+Old classic/crowd.bmp,sobel-gpu,48,0.01584,success
+Old classic/tank.bmp,cpu,6,,success
+Old classic/tank.bmp,gpu,48,0.017504,success
+Old classic/tank.bmp,sobel-cpu,13,,success
+Old classic/tank.bmp,sobel-gpu,48,0.015584,success
+Old classic/man.bmp,cpu,15,,success
+Old classic/man.bmp,gpu,52,0.042592,success
+Old classic/man.bmp,sobel-cpu,36,,success
+Old classic/man.bmp,sobel-gpu,58,0.044672,success
+Old classic/sailboat.ppm,cpu,6,,success
+Old classic/sailboat.ppm,gpu,46,0.017664,success
+Old classic/sailboat.ppm,sobel-cpu,12,,success
+Old classic/sailboat.ppm,sobel-gpu,48,0.022432,success
+Old classic/girlface.bmp,cpu,7,,success
+Old classic/girlface.bmp,gpu,49,0.01488,success
+Old classic/girlface.bmp,sobel-cpu,12,,success
+Old classic/girlface.bmp,sobel-gpu,48,0.015904,success
+Old classic/zelda.bmp,cpu,6,,success
+Old classic/zelda.bmp,gpu,51,0.014336,success
+Old classic/zelda.bmp,sobel-cpu,12,,success
+Old classic/zelda.bmp,sobel-gpu,46,0.015232,success
+Classic/BoatsColor.bmp,cpu,8,,success
+Classic/BoatsColor.bmp,gpu,49,0.024416,success
+Classic/BoatsColor.bmp,sobel-cpu,20,,success
+Classic/BoatsColor.bmp,sobel-gpu,59,0.02144,success
+Classic/baboon.ppm,cpu,6,,success
+Classic/baboon.ppm,gpu,53,0.016032,success
+Classic/baboon.ppm,sobel-cpu,13,,success
+Classic/baboon.ppm,sobel-gpu,49,0.016224,success
+Classic/goldhill.bmp,cpu,8,,success
+Classic/goldhill.bmp,gpu,51,0.02288,success
+Classic/goldhill.bmp,sobel-cpu,17,,success
+Classic/goldhill.bmp,sobel-gpu,52,0.020288,success
+Classic/airplane.bmp,cpu,7,,success
+Classic/airplane.bmp,gpu,53,0.017824,success
+Classic/airplane.bmp,sobel-cpu,13,,success
+Classic/airplane.bmp,sobel-gpu,48,0.021952,success
+Classic/Boats.ppm,cpu,9,,success
+Classic/Boats.ppm,gpu,47,0.02432,success
+Classic/Boats.ppm,sobel-cpu,19,,success
+Classic/Boats.ppm,sobel-gpu,53,0.021824,success
+Classic/airplane.ppm,cpu,6,,success
+Classic/airplane.ppm,gpu,48,0.013824,success
+Classic/airplane.ppm,sobel-cpu,13,,success
+Classic/airplane.ppm,sobel-gpu,48,0.01568,success
+Classic/barbara.ppm,cpu,9,,success
+Classic/barbara.ppm,gpu,49,0.0216,success
+Classic/barbara.ppm,sobel-cpu,18,,success
+Classic/barbara.ppm,sobel-gpu,51,0.019232,success
+Classic/goldhill.ppm,cpu,9,,success
+Classic/goldhill.ppm,gpu,49,0.021408,success
+Classic/goldhill.ppm,sobel-cpu,17,,success
+Classic/goldhill.ppm,sobel-gpu,51,0.018816,success
+Classic/lenna.ppm,cpu,6,,success
+Classic/lenna.ppm,gpu,52,0.019008,success
+Classic/lenna.ppm,sobel-cpu,12,,success
+Classic/lenna.ppm,sobel-gpu,50,0.014784,success
+Classic/pepper.ppm,cpu,7,,success
+Classic/pepper.ppm,gpu,48,0.020928,success
+Classic/pepper.ppm,sobel-cpu,13,,success
+Classic/pepper.ppm,sobel-gpu,48,0.014656,success
+Classic/boats.bmp,cpu,7,,success
+Classic/boats.bmp,gpu,50,0.019968,success
+Classic/boats.bmp,sobel-cpu,18,,success
+Classic/boats.bmp,sobel-gpu,49,0.024608,success
