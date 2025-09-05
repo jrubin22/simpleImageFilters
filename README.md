@@ -19,7 +19,7 @@ A high-performance grayscale and Sobel image filter library implemented in both 
 
 | Input Image | CPU Grayscale | GPU Grayscale | CPU Sobel | GPU Sobel |
 |-------------|----------------|----------------|------------|------------|
-| ![](plots/sample_airplane_input.jpg) | ![](plots/sample_airplane_cpu_gray.jpg) | ![](plots/sample_airplane_gpu_gray.jpg) | ![](plots/sample_airplane_cpu_sobel.jpg) | ![](plots/sample_airplane_gpu_sobel.jpg) |
+| ![](data/STI/Classic/airplane.bmp) | ![](output/airplane-cpu.jpg) | ![](output/airplane-gpu.jpg) | ![](output/airplane-sobel-cpu.jpg) | ![](output/airplane-sobel-gpu.jpg) |
 
 ---
 
@@ -28,13 +28,13 @@ A high-performance grayscale and Sobel image filter library implemented in both 
 Benchmarks were run on an NVIDIA RTX 3050 Ti Mobile GPU. All filters show consistent speedups with increasing image size.
 
 ### Grayscale Filter (Host Time)
-![Grayscale Host Time](plots/grayscale_host_comparison.png)
+![Grayscale Host Time](benchmarks/plots/grayscale_host_comparison.png)
 
 ### Sobel Filter (Host Time)
-![Sobel Host Time](plots/sobel_host_comparison.png)
+![Sobel Host Time](benchmarks/plots/sobel_host_comparison.png)
 
 ### GPU Kernel Execution Time (ms)
-![GPU Kernel Time](plots/gpu_kernel_time_comparison.png)
+![GPU Kernel Time](benchmarks/plots/gpu_kernel_time_comparison.png)
 
 ---
 
